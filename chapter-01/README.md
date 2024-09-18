@@ -66,4 +66,3 @@ TypeError: unsupported operand type(s) for +: 'int' and 'str'
 >>> print(str(2024) + "年")
 2024年
 ```
-
